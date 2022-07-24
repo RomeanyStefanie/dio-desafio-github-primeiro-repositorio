@@ -2,8 +2,8 @@
 Repositório criado para o desafio de projeto.
 
 
-##O que é Git?
-## O que é Github?
+### O que é Git?
+### O que é Github?
 
 ## Links úteis 
 [Sintaxe Básica Markdown](https://www.markdownguide.org/)
